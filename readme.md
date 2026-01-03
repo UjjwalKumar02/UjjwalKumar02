@@ -1,1 +1,1 @@
-22, Learning coding, [portfolio](http://ujjwalkumar02.github.io/pro/)
+22, Learning to code, [portfolio](http://ujjwalkumar02.github.io/pro/)
